@@ -265,7 +265,7 @@ class HomeScreen extends StatelessWidget {
                       ),
                       child: new InkWell(
                         onTap: (){
-                          showToastMessage('Maaf, fitur Vounteer masih belum rilis');
+                          showToastMessage('Maaf, fitur Volunteer masih belum rilis');
                         },
                         child: Padding(
                           padding: EdgeInsets.all(10.0),
